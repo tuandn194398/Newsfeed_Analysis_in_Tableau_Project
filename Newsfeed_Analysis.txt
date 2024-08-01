@@ -1,0 +1,11 @@
+Từ Dashboard Tableau đã tạo, rút ra được các kết luận sau:
+- Về số lượt thích trung bình cho mỗi bài đăng, loại bài đăng nào được ưa chuộng và ít được ưa chuộng nhất?
+Bài đăng Course Certificate được ưa chuộng nhất
+Bài đăng Career Track Certificate được ưa chuộng nhất
+- Theo nghĩa tuyệt đối, loại bài đăng nào phổ biến nhất và loại nào hiếm nhất trên bảng tin?
+Bài đăng về Level phổ biến nhất, Career Track Certificate hiếm nhất
+- Tỷ lệ phần trăm người truy cập vào trang tin tức tương tác tích cực với tính năng này là bao nhiêu?
+405/3956 = 10.24%
+- Dựa trên những quan sát của bạn, bạn có thể đưa ra những khuyến nghị nào để tăng cường tương tác của người dùng với nguồn cấp tin tức? (Cân nhắc hành động theo các phân nhóm thường xuyên xuất hiện mặc dù chúng không thực sự thu hút người dùng.)
+Tổng cộng 48211 bài đăng
+Bài đăng của Course Certificate, Level có tần suất hoạt động của người dùng thường xuyên nhất
